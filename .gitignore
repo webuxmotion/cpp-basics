@@ -1,0 +1,25 @@
+# Compiled binaries
+a.out
+main
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Build directories
+build/
+bin/
+cmake-build-*/
+
+# Debug / temporary files
+*.log
+*.tmp
+
+# IDE / editor stuff
+.idea/
+
+# OS noise
+.DS_Store
+Thumbs.db
