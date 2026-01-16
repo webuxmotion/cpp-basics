@@ -57,11 +57,11 @@ int main()
     std::cout << "short min: 👾" << std::numeric_limits<short>::min() << "\n";
     std::cout << "short max: " << std::numeric_limits<short>::max() << "\n";
 
-    std::cout << "short min: " << std::numeric_limits<int>::min() << "\n";
-    std::cout << "short max: " << std::numeric_limits<int>::max() << "\n";
+    std::cout << "int min: " << std::numeric_limits<int>::min() << "\n";
+    std::cout << "int max: " << std::numeric_limits<int>::max() << "\n";
 
-    std::cout << "short min: " << std::numeric_limits<long>::min() << "\n";
-    std::cout << "short max: " << std::numeric_limits<long>::max() << "\n";
+    std::cout << "long min: " << std::numeric_limits<long>::min() << "\n";
+    std::cout << "long max: " << std::numeric_limits<long>::max() << "\n";
 
     std::cout << "float min: " << std::numeric_limits<float>::min() << "\n";
     std::cout << "float max: " << std::numeric_limits<float>::max() << "\n";
