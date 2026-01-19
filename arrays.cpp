@@ -16,5 +16,11 @@ int main()
     hi_temps[0] = 100.7;
     cout << "The first high temperature is now: " << hi_temps[0] << endl;
 
+    int test_scores [5] {100, 200};
+
+    cout << test_scores[3] << endl;
+
+    cout << "Value of the array name is: " << test_scores << endl;
+
     return 0;
 }
